@@ -5,7 +5,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-# Mehtods
+# Methods
 ```python
 from client import Client
 import dispatcher
